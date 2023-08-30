@@ -111,7 +111,7 @@ h1#title{
     letter-spacing: 0.05rem;
     font-size: 1.2rem;
     border: none;
-    border-radius: 10px;
+    border-radius: 50px;
     padding-left: 2rem;
 }
 
@@ -269,7 +269,7 @@ h1.second-heading{
 }
 
 .register button:hover{
-    box-shadow: 0 0 10px 5px #31047B;
+    border: solid 3px #31047B;
     transition: 0.25s;
     cursor: pointer;
 }
